@@ -1,0 +1,12 @@
+{
+  "name": "Hold for You",
+  "short_name": "Hold",
+  "description": "One person holds a daily check-in for someone they love. Presence, not therapy.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1410",
+  "theme_color": "#1a1410",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
